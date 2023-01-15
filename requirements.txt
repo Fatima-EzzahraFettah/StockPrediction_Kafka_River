@@ -1,0 +1,6 @@
+numpy
+matplotlib
+kafka-python
+yfinance
+river
+ray
